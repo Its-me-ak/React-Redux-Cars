@@ -27,9 +27,6 @@ const CarForm = () => {
       name,
       cost
     }))
-    // reset the form value after submission
-    dispatch(changeName(''))
-    dispatch(changeCost(0))
   }
   return (
     <div className='car-form panel'>
