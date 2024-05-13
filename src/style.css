@@ -85,3 +85,7 @@ hr {
     margin-bottom: 0px;
     margin-right: 10px;
 }
+
+.text-bold{
+    font-weight: 700;
+}
